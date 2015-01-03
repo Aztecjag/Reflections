@@ -24,10 +24,9 @@ How can you use the commands git log and git diff to view the history of files?
 
 You can find the commit ids of the changes and also see what specific changes were made by whom. 
 
-How might using version control make you more confident to make changes that
-could break something?
+How might using version control make you more confident to make changes that could break something?
 
-    Fill in your answer here 
+If you did happen to break something, you could easily figure out where the mistake was and then correct it. 
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
