@@ -30,5 +30,5 @@ If you did happen to break something, you could easily figure out where the mist
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+I want to use Git to write the code for this project as well as for other future projects.  
 pwd #
